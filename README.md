@@ -6,4 +6,5 @@ new repo
  ##project Notes
  
  
- ###Example site
+ ###Example site 
+ this is a simple readme file 
